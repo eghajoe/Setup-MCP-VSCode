@@ -60,6 +60,7 @@ Pilih opsi "MCP Server".
 Konfigurasikan dengan nama (misal: microsoft-learn) dan URL yang sesuai dengan panduan.
 
 Selesai! Kini agen AI di VS Code Anda terhubung langsung dengan database ilmu Microsoft Learn.
+<img width="1024" height="576" alt="faec4c93-ff0f-4571-b09c-2ff060f04d89" src="https://github.com/user-attachments/assets/7d31e583-820e-43d0-9c94-f7dae9c7cfdf" />
 
 🤝 Mari Berkontribusi!
 Proyek panduan ini bersifat terbuka (open-source). Jika Anda menemukan cara yang lebih efisien atau ingin menambahkan studi kasus penggunaan perintah CLI lainnya, silakan ajukan Pull Request (PR).
